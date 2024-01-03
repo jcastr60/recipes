@@ -1,0 +1,14 @@
+h1{
+    color:rgb(255, 255, 255);
+    background-color: brown;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+ul.myUl{
+    display: inline-block;
+    text-align: left;
+}
